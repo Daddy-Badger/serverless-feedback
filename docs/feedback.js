@@ -2,7 +2,7 @@
  * Web application
  */
 const apiUrl =
-  "https://cbb09be9.eu-gb.apigw.appdomain.cloud/30-feedback";
+  "https://051b51d6.eu-gb.apigw.appdomain.cloud/30-feedback";
 const feedback = {
   // retrieve the existing feedback entries
   get() {
